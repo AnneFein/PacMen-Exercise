@@ -5,6 +5,7 @@ const pacArray = [
   ['./images/PacMan3.png', './images/PacMan4.png'],
 ];
 var direction = 0;
+var focus = 0;
 function Run() {
   let img = document.getElementById('PacMan');
   let imgWidth = img.width;
