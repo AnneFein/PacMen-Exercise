@@ -2,6 +2,9 @@
 
 This exercise simulates a PacMan moving horizontally across the computer screen, and opening and closing its mouth. The PacMan image changes direction once it hits the edge of the screen, and repeats the process once it hits the opposite edge of the screen. There are four rotating images, which simulate the PacMan opening and closing its mouth. 
 
+<img width="314" alt="Screenshot 2025-01-15 at 6 57 19 AM" src="https://github.com/user-attachments/assets/59208f9f-fb18-49f3-bd62-bec7fe486535" />
+
+
 **How to Run**
 
 This application runs in the browser. No further action is necessary.
